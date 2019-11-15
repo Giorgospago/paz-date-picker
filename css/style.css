@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#title, #nights {
+    text-align: center;
+}
+
+#datepicker {
+    display:block;
+    margin: 0 auto;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: solid 1px grey;
+}
+
+#nights {
+    font-size: 7rem;
+    font-weight: bold;
+}
